@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springBoot-ActiveMQ-Comsumer
+Implementation-Version: 1.5.4.RELEASE
+Built-By: ￨ﾾﾉ
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/springBoot-A
+ ctiveMQ-Comsumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
